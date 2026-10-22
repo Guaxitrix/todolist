@@ -58,3 +58,4 @@ Acesse `http://localhost:5173`.
 - Estado vazio idêntico ao mockup ("You have no pending tasks.")
 - Botão flutuante "+" no canto inferior direito
 # todolist
+# todolist
